@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EmployeeManagement\\EmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1B733A-5FF4-492C-B5B1-C70E8AB2B9FF}|EmployeeManagement\\EmployeeManagement.csproj|d:\\employeemanagement\\employeemanagement\\employeemanagement\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1B733A-5FF4-492C-B5B1-C70E8AB2B9FF}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1B733A-5FF4-492C-B5B1-C70E8AB2B9FF}|EmployeeManagement\\EmployeeManagement.csproj|d:\\employeemanagement\\employeemanagement\\employeemanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1B733A-5FF4-492C-B5B1-C70E8AB2B9FF}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1B733A-5FF4-492C-B5B1-C70E8AB2B9FF}|EmployeeManagement\\EmployeeManagement.csproj|d:\\employeemanagement\\employeemanagement\\employeemanagement\\wwwroot\\js\\addemployee.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2C1B733A-5FF4-492C-B5B1-C70E8AB2B9FF}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\wwwroot\\js\\addemployee.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1B733A-5FF4-492C-B5B1-C70E8AB2B9FF}|EmployeeManagement\\EmployeeManagement.csproj|d:\\employeemanagement\\employeemanagement\\employeemanagement\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1B733A-5FF4-492C-B5B1-C70E8AB2B9FF}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1B733A-5FF4-492C-B5B1-C70E8AB2B9FF}|EmployeeManagement\\EmployeeManagement.csproj|d:\\employeemanagement\\employeemanagement\\employeemanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C1B733A-5FF4-492C-B5B1-C70E8AB2B9FF}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1B733A-5FF4-492C-B5B1-C70E8AB2B9FF}|EmployeeManagement\\EmployeeManagement.csproj|d:\\employeemanagement\\employeemanagement\\employeemanagement\\wwwroot\\js\\employeemanagement.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2C1B733A-5FF4-492C-B5B1-C70E8AB2B9FF}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\wwwroot\\js\\employeemanagement.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1B733A-5FF4-492C-B5B1-C70E8AB2B9FF}|EmployeeManagement\\EmployeeManagement.csproj|d:\\employeemanagement\\employeemanagement\\employeemanagement\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1B733A-5FF4-492C-B5B1-C70E8AB2B9FF}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1B733A-5FF4-492C-B5B1-C70E8AB2B9FF}|EmployeeManagement\\EmployeeManagement.csproj|d:\\employeemanagement\\employeemanagement\\employeemanagement\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1B733A-5FF4-492C-B5B1-C70E8AB2B9FF}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Migrations\\20240711053149_Initial Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeManagement\\Migrations\\20240711053149_Initial Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1B733A-5FF4-492C-B5B1-C70E8AB2B9FF}|EmployeeManagement\\EmployeeManagement.csproj|d:\\employeemanagement\\employeemanagement\\employeemanagement\\employeemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2C1B733A-5FF4-492C-B5B1-C70E8AB2B9FF}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\employeemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1B733A-5FF4-492C-B5B1-C70E8AB2B9FF}|EmployeeManagement\\EmployeeManagement.csproj|d:\\employeemanagement\\employeemanagement\\employeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C1B733A-5FF4-492C-B5B1-C70E8AB2B9FF}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1B733A-5FF4-492C-B5B1-C70E8AB2B9FF}|EmployeeManagement\\EmployeeManagement.csproj|d:\\employeemanagement\\employeemanagement\\employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1B733A-5FF4-492C-B5B1-C70E8AB2B9FF}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "addEmployee.js",
+              "DocumentMoniker": "D:\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\wwwroot\\js\\addEmployee.js",
+              "RelativeDocumentMoniker": "EmployeeManagement\\wwwroot\\js\\addEmployee.js",
+              "ToolTip": "D:\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\wwwroot\\js\\addEmployee.js",
+              "RelativeToolTip": "EmployeeManagement\\wwwroot\\js\\addEmployee.js",
+              "ViewState": "AQIAAAMAAAAAAAAAAAA4wA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-11T08:03:23.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EmployeeManagement\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T07:24:55.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Models\\Employee.cs",
+              "ToolTip": "D:\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagement\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:12:13.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeManagement\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAswD8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T06:43:22.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "D:\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "D:\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "EmployeeManagement\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:01:15.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "employeeManagement.js",
+              "DocumentMoniker": "D:\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\wwwroot\\js\\employeeManagement.js",
+              "RelativeDocumentMoniker": "EmployeeManagement\\wwwroot\\js\\employeeManagement.js",
+              "ToolTip": "D:\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\wwwroot\\js\\employeeManagement.js",
+              "RelativeToolTip": "EmployeeManagement\\wwwroot\\js\\employeeManagement.js",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA6wBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-11T07:29:04.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Models\\Department.cs",
+              "ToolTip": "D:\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Models\\Department.cs",
+              "RelativeToolTip": "EmployeeManagement\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:12:43.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "EmployeeManagement\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:23:42.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240711053149_Initial Migration.cs",
+              "DocumentMoniker": "D:\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Migrations\\20240711053149_Initial Migration.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Migrations\\20240711053149_Initial Migration.cs",
+              "ToolTip": "D:\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Migrations\\20240711053149_Initial Migration.cs",
+              "RelativeToolTip": "EmployeeManagement\\Migrations\\20240711053149_Initial Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:31:49.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeManagement",
+              "DocumentMoniker": "D:\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
+              "RelativeDocumentMoniker": "EmployeeManagement\\EmployeeManagement.csproj",
+              "ToolTip": "D:\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
+              "RelativeToolTip": "EmployeeManagement\\EmployeeManagement.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-11T05:29:59.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeManagement\\appsettings.json",
+              "ToolTip": "D:\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\appsettings.json",
+              "RelativeToolTip": "EmployeeManagement\\appsettings.json",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T05:28:56.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Program.cs",
+              "ToolTip": "D:\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Program.cs",
+              "RelativeToolTip": "EmployeeManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:27:37.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

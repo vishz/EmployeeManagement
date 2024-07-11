@@ -1,0 +1,54 @@
+@{
+    ViewData["Title"] = "Employee Management";
+}
+
+<h2>Employee Management</h2>
+
+<button id="addEmployeeButton">ADD EMPLOYEE</button>
+
+<table id="employeeTable" border="1">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>No</th>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Department</th>
+            <th>Salary</th>
+        </tr>
+    </thead>
+    <tbody>
+    </tbody>
+</table>
+
+<!-- Add Employee Modal -->
+<div id="employeeModal" style="display:none;">
+    <div>
+        <label for="employeeNo">No:</label>
+        <input type="text" id="employeeNo">
+    </div>
+    <div>
+        <label for="employeeName">Name:</label>
+        <input type="text" id="employeeName">
+    </div>
+    <div>
+        <label for="employeeAge">Age:</label>
+        <input type="number" id="employeeAge">
+    </div>
+    <div>
+        <label for="employeeDepartment">Department:</label>
+        <select id="employeeDepartment"></select>
+    </div>
+    <div>
+        <label for="employeeSalary">Salary:</label>
+        <input type="number" id="employeeSalary">
+    </div>
+    <button id="saveEmployeeButton">Save</button>
+    <button id="closeEmployeeModal">Close</button>
+</div>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="~/js/employeeManagement.js"></script>
+    <script src="~/js/addEmployee.js"></script>
+}
